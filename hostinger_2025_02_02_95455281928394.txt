@@ -1,0 +1,35 @@
+Conversation with Hostinger
+Started on February 2, 2025 at 01:05 PM Vilnius time EET (GMT+0200)
+
+---
+
+01:05 PM | CMT Pune: hi i want to downgrade from Business Web Hosting plan to Single Web Hosting
+
+01:05 PM | Kodee from Hostinger: Please provide the Payment ID of your current Business Web Hosting plan so I can check the downgrade eligibility for you. You can find the Payment ID in your Payment History (https://hpanel.hostinger.com/billing/payment-history/paid).
+
+01:06 PM | CMT Pune: H_18548183
+​
+
+01:06 PM | Kodee from Hostinger: Before proceeding with the downgrade, please review the following important points: 
+ 1. After downgrading, your plan limits will decrease, which may lead to reaching memory, inodes, disk, and other limits more quickly. 
+2. The price of the new plan is based on its renewal price. If the new plan costs more, you will be charged the difference. 
+3. If your current plan includes Daily Backups, downgrading to Single Web Hosting means you will lose those backups. 
+4. If you're downgrading from a Cloud to a Web Hosting plan, your hosting IP will change. You may need to update A records or other IP-related configurations for your domain. 
+ Please confirm if you would like to proceed with the downgrade.
+
+01:11 PM | CMT Pune: yes
+
+01:11 PM | Kodee from Hostinger: I've forwarded your downgrade request to our dedicated team. They will assist you further with the process shortly. Let me know if you have any other questions, Cmt!
+
+01:11 PM | CMT Pune: no
+
+01:12 PM | Rizka from Hostinger: Hello! It's Rizka here, I'm ready to assist you.
+
+01:12 PM | CMT Pune: ok
+
+01:12 PM | Rizka from Hostinger: Please allow me 10 minutes to check for your request.
+
+01:13 PM | CMT Pune: yes
+
+---
+Exported from Hostinger on February 2, 2025 at 01:13 PM Vilnius time EET (GMT+0200)
